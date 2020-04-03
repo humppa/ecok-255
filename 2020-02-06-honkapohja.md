@@ -3,8 +3,7 @@ Seppo Honkapohja
 Hitaan kasvun anatomia finanssikriisin jälkeen
 
 * Suomi oli menestystarina
-    - Suomi otti kiinni vauraampi maita vuodesta 1870 alkaen
-    -
+    - Otti kiinni vauraampi maita vuodesta 1870 alkaen
 
 * Finanssikriisin jälkeen ei mennyt hyvin
     - Finanssikriisi supisti taloutta merkittävästi
@@ -43,9 +42,8 @@ Hitaan kasvun anatomia finanssikriisin jälkeen
     - Kaikki mallit ennustavat hidastunutta kasvua
     - Luottamusluvut eivät laske juuri nyt
     - Työttömyysaste ei ole laskenut
-    - (Miksi työttömyysaste on 15–64-vuotiaat, mutta työllisyysaste 15–74-vuotiaat?)
-    -
-    -
+    - (Miksi työttömyysaste on 15–64-vuotiaat, mutta työllisyysaste
+      15–74-vuotiaat?)
 
 * Vaatimuslista
     - Rakenteita täytyy kehittää: investoinnit ja innovaatiot; työpanoksen
