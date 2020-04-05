@@ -2,6 +2,11 @@
 Ulla Lehmijoki
 Väestönkasvu – ihmiskunnan kohtalonkysymys?
 
+* Aiheet
+    - Väestönkasvu ja ennustamisen menetelmät
+    - Kohtalonkysymys
+    - Miksei asiaan puututa
+
 * Pitkä historia
     - Populaatio keskiajalla =~ 100 miljoonaa
     - Väestönkasvu on tapahtunut historiallisesti ajateltuna räjähdysmäisesti
@@ -12,7 +17,7 @@ Väestönkasvu – ihmiskunnan kohtalonkysymys?
     - Teollinen vallankumous (höyrykone 1769, rautatie...)
 
 * Väestöennusteet
-    - Selviytymisfunktio jne.
+    - Selviytymisfunktio, fertiliteettifunktio ja väestömomentti
     - Eliniän pitenemisen ennustaminen vaikeaa, mutta virhevaikutus pieni
     - Nuoren polven kuolleisuus tunnettu paremmin ja sen vaikutus on suuri
     - Ikäspesifi fertiliteetti on vaikeampi ennustaa
@@ -22,6 +27,14 @@ Väestönkasvu – ihmiskunnan kohtalonkysymys?
       puolet väestönkasvusta 2100 asti
     - Väestömomentti eli se kuinka paljon on jo ihmisiä, jotka tulevat
       sukukypsään ikään tulevaisuudessa
+
+* YK:n ennusteet
+    - Ennusteessa useita variantteja, sillä epävarmuustekijät
+    - Kokonaishedelmallisyysluku (TFR) on nyt 2,4
+    - Nettouusiutumisluku on noin 2,1
+    - Mediumvariantin mukaan TFR vuosisadan loppuun mennessä olisi 1,85
+    - Latinalainen Amerikka on pudonnut ~6,0->2,5 vain 50 vuodessa
+      katollisuudestaan huolimatta
 
 * Afrikan väestö kasvaa ennusteita nopeammin
     - Syy ei tiedossa
@@ -35,6 +48,11 @@ Väestönkasvu – ihmiskunnan kohtalonkysymys?
     - Ilmansaasteet ja ilmastonmuutos
 
 * Jalanjälkiennuste
+    - Biokapasiteetti eli ekologinen jalanjälki
+    - Turvallinen raja olisi noin 2,1 hehtaaria/hlö
+    - Länsimaissa nyt lähes 10
+    - Afrikka, Intia ja Kiina ovat selkeästi turvarajan alapuolella suuresta
+      populaatiostaan huolimatta
     - Jos ei tehdä mitään, jo vuonna 2050 käytetään lähes 3 kertaa planeetan
       resurssit
     - Vain Kuuba on kestävän kehityksen maa
@@ -66,5 +84,3 @@ Väestönkasvu – ihmiskunnan kohtalonkysymys?
 
 * Kannanottoja
     - Emme voi välttää vastuutamme: rikkaat saastuttavat eniten
-    - ...
-    - ...
